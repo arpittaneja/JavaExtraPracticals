@@ -1,6 +1,8 @@
+//To learn the use of two dimensional array by defining the array dynamically
+
 package s;
 
-public class P4 {
+public class P4Array2D {
     public static void main(String args[]) {
         int arr[][] = new int[5][];
         arr[0] = new int[1];
@@ -19,12 +21,7 @@ public class P4 {
             }
             System.out.println();
         }
-        //for (int i = 0; i < 5; i++) {
-        //    for (int j = 0; j < i + 1; j++) {
-        //       System.out.print(arr[i][j]+ " ");
-        //  }
-        // System.out.println();
-        //}
+
     }
 }
 

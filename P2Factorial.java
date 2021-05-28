@@ -1,8 +1,9 @@
-package s;
+//To find factorial of a given number
 
+package s;
 import java.util.Scanner;
 
-public class P2 {
+public class P2Factorial {
     public static void main(String args[]){
        int fact=1;
         System.out.println("Enter the number whose factorial you want to find: ");
