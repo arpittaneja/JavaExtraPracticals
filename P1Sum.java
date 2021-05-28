@@ -15,5 +15,8 @@ public class P1Sum {
         System.out.println("Sum of elements is "+sum);
         
         
+        
+        
+        
     }
 }
