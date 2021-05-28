@@ -1,7 +1,6 @@
+package s;
+
 import java.util.Scanner;
-
-//your code goes here
-
 
 public class p5 {
     public static void main(String[ ] args) {
