@@ -1,4 +1,4 @@
-//To find the sum of any integers entered as command line arguments
+//To find the sum of any integers entered as command line arguments.
 
 package s;
 import java.io.*;

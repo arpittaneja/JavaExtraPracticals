@@ -1,4 +1,4 @@
-//To find factorial of a given number
+//To find factorial of a given number.
 
 package s;
 import java.util.Scanner;

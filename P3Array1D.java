@@ -1,4 +1,4 @@
-//To learn the use of one dimensional array by defining the array dynamically
+//To learn the use of one dimensional array by defining the array dynamically.
 
 package s;
 
@@ -23,3 +23,4 @@ public class P3Array1D {
         }
     }
 }
+

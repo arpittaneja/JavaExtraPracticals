@@ -1,4 +1,4 @@
-//To learn the use of two dimensional array by defining the array dynamically
+//To learn the use of two dimensional array by defining the array dynamically.
 
 package s;
 
