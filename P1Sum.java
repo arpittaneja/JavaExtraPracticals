@@ -13,5 +13,7 @@ public class P1Sum {
             sum+=num;
         }
         System.out.println("Sum of elements is "+sum);
+        
+        
     }
 }
