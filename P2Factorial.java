@@ -14,5 +14,7 @@ public class P2Factorial {
             fact*=i;
         }
         System.out.println("The factorial of "+num+" is "+fact);
+
+
     }
 }
