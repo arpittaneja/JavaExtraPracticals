@@ -21,7 +21,6 @@ public class P4Array2D {
             }
             System.out.println();
         }
-
     }
 }
 
