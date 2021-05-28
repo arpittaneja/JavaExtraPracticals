@@ -12,8 +12,6 @@ public class P1Sum {
             num=i=Integer.parseInt(args[i]);
             sum+=num;
         }
-        System.out.println("Sum of elements is "+sum);
-        
-        
+        System.out.println("Sum of elements is "+sum);      
     }
 }
